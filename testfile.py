@@ -1,3 +1,4 @@
+#versão BETA
 dist     = float(input("Distância entre drones(metros): "))                              #Medido pelo drone Gato(perseguidor) que corre atrás do drone
                                                                                          #Rato(perseguido).
 velRato  = float(input("Digite a velocidade do drone que esta sendo perseguido: "))      #RATO: drone controlado por um piloto, traz um fator de aleatoriedade 
