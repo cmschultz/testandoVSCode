@@ -44,5 +44,5 @@ def controleDistancia(dist):
     
 #Problema: Muitas variações de comando em pouco tempo.
 #talvez mexer com ranges de valores. Por exemplo: de 1 a 1,5 metros
-#velociadade relativa de até 10 km/h.
+#velociadade relativa de até 5 km/h.
 #Essa versão aqui é a Beta.
